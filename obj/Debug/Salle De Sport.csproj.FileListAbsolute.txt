@@ -1,0 +1,107 @@
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.pdb
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauPersonne.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherPersonne.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.exe
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.pdb
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+C:\Users\Abdo\source\repos\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.exe
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.pdb
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.pdb
+D:\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.exe
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\bin\Debug\Salle De Sport.pdb
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.exe
+C:\Users\Abdo\Documents\last version\copy project ne pas complet\Salle De Sport\Salle De Sport\obj\Debug\Salle De Sport.pdb
+C:\Users\ayoub\Desktop\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+C:\Users\ayoub\Desktop\Salle De Sport\bin\Debug\Salle De Sport.exe
+C:\Users\ayoub\Desktop\Salle De Sport\bin\Debug\Salle De Sport.pdb
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle De Sport.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle De Sport.exe
+C:\Users\ayoub\Desktop\Salle De Sport\obj\Debug\Salle De Sport.pdb
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.exe
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.pdb
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.exe
+C:\Users\Abdo\Downloads\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.pdb
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.exe
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\bin\Debug\Salle De Sport.pdb
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.csprojAssemblyReference.cache
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.exe
+D:\copy project ne pas complet\Projet,Salle de Sport\Salle De Sport\obj\Debug\Salle De Sport.pdb
+C:\Users\abdessamad\Music\Salle De Sport\bin\Debug\Salle De Sport.exe.config
+C:\Users\abdessamad\Music\Salle De Sport\bin\Debug\Salle De Sport.exe
+C:\Users\abdessamad\Music\Salle De Sport\bin\Debug\Salle De Sport.pdb
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.csproj.AssemblyReference.cache
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.ACCUEIL.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.Connection.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.ModifierClient.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauClient.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.NouveauEntraîneur.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.Paiement.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.Properties.Resources.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle_De_Sport.RechercherClient.resources
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.csproj.GenerateResource.cache
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.csproj.CoreCompileInputs.cache
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.exe
+C:\Users\abdessamad\Music\Salle De Sport\obj\Debug\Salle De Sport.pdb
